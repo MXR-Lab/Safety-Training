@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Samples/Meta XR Interaction SDK OVR Samples/60.0.0/Example Scenes/HandGrabUseExamples.unity
+- path: Assets/Samples/Meta XR Interaction SDK OVR Samples/60.0.0/Example Scenes/TransformerExamples.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

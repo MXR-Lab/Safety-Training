@@ -342,12 +342,12 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/Tag/AssemblyInfo.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/Tag/ITaggable.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/Tag/Tag.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/Tag/TagArray.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/Tag/TagArrayDrawer.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/Tag/TagBehavior.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/Tag/AssemblyInfo.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/Tag/ITaggable.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/Tag/Tag.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/Tag/TagArray.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/Tag/TagArrayDrawer.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/Tag/TagBehavior.cs"
 -langversion:9.0
 
 /deterministic

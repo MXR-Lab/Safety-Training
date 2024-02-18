@@ -342,8 +342,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.meta.xr.sdk.interaction@60.0.0/Runtime/ThirdParty/InterfaceSupport/Editor/InterfaceDrawer.cs"
-"Library/PackageCache/com.meta.xr.sdk.interaction@60.0.0/Runtime/ThirdParty/InterfaceSupport/Editor/InterfacePicker.cs"
+"Library/PackageCache/com.meta.xr.sdk.interaction@62.0.0/Runtime/ThirdParty/InterfaceSupport/Editor/InterfaceDrawer.cs"
+"Library/PackageCache/com.meta.xr.sdk.interaction@62.0.0/Runtime/ThirdParty/InterfaceSupport/Editor/InterfacePicker.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

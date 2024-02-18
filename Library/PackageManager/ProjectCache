@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638425085618782503
-    m_Hash: 2400119383
+      ticks: 638438795352845175
+    m_Hash: 876263218
   m_LockFileStatus:
     m_FilePath: C:/Users/npfan/Documents/GitHub/Safety-Training/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638425085618832720
-    m_Hash: 2100819510
+      ticks: 638438795352891611
+    m_Hash: 1232097531
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/npfan/Documents/GitHub/Safety-Training/Packages
 m_EditorVersion: 2021.3.34f1 (25266724e7bd)
 m_ResolvedPackages:
-- packageId: com.meta.xr.sdk.interaction@60.0.0
+- packageId: com.meta.xr.sdk.interaction@62.0.0
   testable: 0
   isDirectDependency: 1
-  version: 60.0.0
+  version: 62.0.0
   source: 1
-  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.interaction@60.0.0
+  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.interaction@62.0.0
   assetPath: Packages/com.meta.xr.sdk.interaction
   name: com.meta.xr.sdk.interaction
   displayName: Meta XR Interaction SDK
@@ -47,11 +47,13 @@ m_ResolvedPackages:
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     verified: 
   dependencies:
   - name: com.unity.textmeshpro
@@ -68,11 +70,11 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   keywords:
-  - Interaction
   - Oculus
-  - SDK
-  - Meta
   - Quest
+  - Meta
+  - SDK
+  - Interaction
   - XR
   registry:
     id: main
@@ -84,7 +86,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 1
-  datePublishedTicks: 638381956440000000
+  datePublishedTicks: 638436335880000000
   documentationUrl: https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/
   hasRepository: 0
   repository:
@@ -95,12 +97,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.meta.xr.sdk.interaction.ovr@60.0.0
+- packageId: com.meta.xr.sdk.interaction.ovr@62.0.0
   testable: 0
   isDirectDependency: 1
-  version: 60.0.0
+  version: 62.0.0
   source: 1
-  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.interaction.ovr@60.0.0
+  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.interaction.ovr@62.0.0
   assetPath: Packages/com.meta.xr.sdk.interaction.ovr
   name: com.meta.xr.sdk.interaction.ovr
   displayName: Meta XR Interaction SDK OVR Integration
@@ -111,7 +113,7 @@ m_ResolvedPackages:
   category: 
   type: 
   description: This package allows Interaction SDK to interface with OVRPlugin. Use
-    this package if you are using OVRPlugin or the Utilities package.
+    this package if you are using OVRPlugin or the Core SDK package.
   status: 0
   errors: []
   versions:
@@ -120,22 +122,24 @@ m_ResolvedPackages:
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     verified: 
   dependencies:
   - name: com.meta.xr.sdk.core
-    version: 60.0.0
+    version: 62.0.0
   - name: com.meta.xr.sdk.interaction
-    version: 60.0.0
+    version: 62.0.0
   resolvedDependencies:
   - name: com.meta.xr.sdk.core
-    version: 60.0.0
+    version: 62.0.0
   - name: com.meta.xr.sdk.interaction
-    version: 60.0.0
+    version: 62.0.0
   - name: com.unity.textmeshpro
     version: 3.0.6
   - name: com.unity.ugui
@@ -145,13 +149,13 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   keywords:
-  - Quest
-  - Meta
-  - Oculus
   - SDK
-  - XR
   - OVR
   - Interaction
+  - XR
+  - Meta
+  - Oculus
+  - Quest
   registry:
     id: main
     name: 
@@ -162,7 +166,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 1
-  datePublishedTicks: 638381959840000000
+  datePublishedTicks: 638436345450000000
   documentationUrl: https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/
   hasRepository: 0
   repository:
@@ -173,12 +177,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.meta.xr.sdk.interaction.ovr.samples@60.0.0
+- packageId: com.meta.xr.sdk.interaction.ovr.samples@62.0.0
   testable: 0
   isDirectDependency: 1
-  version: 60.0.0
+  version: 62.0.0
   source: 1
-  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.interaction.ovr.samples@60.0.0
+  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.interaction.ovr.samples@62.0.0
   assetPath: Packages/com.meta.xr.sdk.interaction.ovr.samples
   name: com.meta.xr.sdk.interaction.ovr.samples
   displayName: Meta XR Interaction SDK OVR Samples
@@ -197,23 +201,25 @@ m_ResolvedPackages:
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     compatible:
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     verified: 
   dependencies:
   - name: com.meta.xr.sdk.interaction.ovr
-    version: 60.0.0
+    version: 62.0.0
   - name: com.meta.xr.sdk.sharedassets
-    version: 60.0.0
+    version: 62.0.0
   resolvedDependencies:
   - name: com.meta.xr.sdk.interaction.ovr
-    version: 60.0.0
+    version: 62.0.0
   - name: com.meta.xr.sdk.core
-    version: 60.0.0
+    version: 62.0.0
   - name: com.meta.xr.sdk.interaction
-    version: 60.0.0
+    version: 62.0.0
   - name: com.unity.textmeshpro
     version: 3.0.6
   - name: com.unity.ugui
@@ -223,16 +229,16 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.meta.xr.sdk.sharedassets
-    version: 60.0.0
+    version: 62.0.0
   keywords:
-  - Samples
+  - OVR
   - Quest
-  - Oculus
   - Meta
+  - Samples
+  - Oculus
+  - XR
   - Interaction
   - SDK
-  - OVR
-  - XR
   registry:
     id: main
     name: 
@@ -243,7 +249,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 1
-  datePublishedTicks: 638382002010000000
+  datePublishedTicks: 638436413130000000
   documentationUrl: https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/
   hasRepository: 0
   repository:
@@ -962,6 +968,7 @@ m_ResolvedPackages:
     - 3.0.5
     - 3.0.6
     - 3.0.7
+    - 3.0.8
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -975,6 +982,7 @@ m_ResolvedPackages:
     compatible:
     - 3.0.6
     - 3.0.7
+    - 3.0.8
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -983,7 +991,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
-    verified: 3.0.7
+    verified: 3.0.8
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1443,6 +1451,7 @@ m_ResolvedPackages:
     - 4.1.2
     - 4.2.0-exp-env-depth.1
     - 4.2.0-exp-env-depth.2
+    - 4.2.0
     compatible:
     - 3.3.0
     verified: 3.3.0
@@ -3685,12 +3694,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.4
     nextVersion: 
-- packageId: com.meta.xr.sdk.sharedassets@60.0.0
+- packageId: com.meta.xr.sdk.sharedassets@62.0.0
   testable: 0
   isDirectDependency: 0
-  version: 60.0.0
+  version: 62.0.0
   source: 1
-  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.sharedassets@60.0.0
+  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.sharedassets@62.0.0
   assetPath: Packages/com.meta.xr.sdk.sharedassets
   name: com.meta.xr.sdk.sharedassets
   displayName: Meta XR SDK Shared Assets
@@ -3709,11 +3718,13 @@ m_ResolvedPackages:
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     verified: 
   dependencies:
   - name: com.unity.textmeshpro
@@ -3731,11 +3742,11 @@ m_ResolvedPackages:
     version: 1.0.0
   keywords:
   - Assets
+  - SDK
+  - Quest
+  - XR
   - Meta
   - Oculus
-  - SDK
-  - XR
-  - Quest
   registry:
     id: main
     name: 
@@ -3746,7 +3757,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 1
-  datePublishedTicks: 638381990010000000
+  datePublishedTicks: 638436404190000000
   documentationUrl: https://developer.oculus.com/documentation/unity/
   hasRepository: 0
   repository:
@@ -3757,12 +3768,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.meta.xr.sdk.core@60.0.0
+- packageId: com.meta.xr.sdk.core@62.0.0
   testable: 0
   isDirectDependency: 0
-  version: 60.0.0
+  version: 62.0.0
   source: 1
-  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.core@60.0.0
+  resolvedPath: C:\Users\npfan\Documents\GitHub\Safety-Training\Library\PackageCache\com.meta.xr.sdk.core@62.0.0
   assetPath: Packages/com.meta.xr.sdk.core
   name: com.meta.xr.sdk.core
   displayName: Meta XR Core SDK
@@ -3780,19 +3791,21 @@ m_ResolvedPackages:
     all:
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     compatible:
     - 59.0.0
     - 60.0.0
+    - 62.0.0
     verified: 
   dependencies: []
   resolvedDependencies: []
   keywords:
   - Oculus
-  - Utilities
-  - Meta
-  - XR
-  - Quest
   - SDK
+  - Quest
+  - XR
+  - Meta
+  - Utilities
   registry:
     id: main
     name: 
@@ -3803,7 +3816,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 1
-  datePublishedTicks: 638381941530000000
+  datePublishedTicks: 638436322890000000
   documentationUrl: https://developer.oculus.com/documentation/unity/
   hasRepository: 0
   repository:

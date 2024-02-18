@@ -335,12 +335,12 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.meta.xr.sdk.sharedassets@60.0.0/Runtime/2D/Interface/InstructionsPanel/InstructionPanel.cs"
-"Library/PackageCache/com.meta.xr.sdk.sharedassets@60.0.0/Runtime/2D/Interface/InstructionsPanel/PlayMultipleVideos.cs"
-"Library/PackageCache/com.meta.xr.sdk.sharedassets@60.0.0/Runtime/Scripts/BlobShadow.cs"
-"Library/PackageCache/com.meta.xr.sdk.sharedassets@60.0.0/Runtime/Scripts/SimpleCurveBasedAnimation.cs"
-"Library/PackageCache/com.meta.xr.sdk.sharedassets@60.0.0/Runtime/Vfx/Portal/Scripts/CurveBasedTextureOffset.cs"
-"Library/PackageCache/com.meta.xr.sdk.sharedassets@60.0.0/Runtime/Vfx/Portal/Scripts/Portal.cs"
+"Library/PackageCache/com.meta.xr.sdk.sharedassets@62.0.0/Runtime/2D/Interface/InstructionsPanel/InstructionPanel.cs"
+"Library/PackageCache/com.meta.xr.sdk.sharedassets@62.0.0/Runtime/2D/Interface/InstructionsPanel/PlayMultipleVideos.cs"
+"Library/PackageCache/com.meta.xr.sdk.sharedassets@62.0.0/Runtime/Scripts/BlobShadow.cs"
+"Library/PackageCache/com.meta.xr.sdk.sharedassets@62.0.0/Runtime/Scripts/SimpleCurveBasedAnimation.cs"
+"Library/PackageCache/com.meta.xr.sdk.sharedassets@62.0.0/Runtime/Vfx/Portal/Scripts/CurveBasedTextureOffset.cs"
+"Library/PackageCache/com.meta.xr.sdk.sharedassets@62.0.0/Runtime/Vfx/Portal/Scripts/Portal.cs"
 -langversion:9.0
 
 /deterministic

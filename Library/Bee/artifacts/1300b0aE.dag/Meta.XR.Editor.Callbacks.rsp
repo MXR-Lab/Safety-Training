@@ -341,9 +341,9 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/EditorCallbacks/AssemblyInfo.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/EditorCallbacks/AssetPostProcessor.cs"
-"Library/PackageCache/com.meta.xr.sdk.core@60.0.0/Editor/Utils/EditorCallbacks/InitializeOnLoad.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/EditorCallbacks/AssemblyInfo.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/EditorCallbacks/AssetPostProcessor.cs"
+"Library/PackageCache/com.meta.xr.sdk.core@62.0.0/Editor/Utils/EditorCallbacks/InitializeOnLoad.cs"
 -langversion:9.0
 
 /deterministic

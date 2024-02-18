@@ -344,7 +344,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.meta.xr.sdk.interaction.ovr.samples@60.0.0/Runtime/Scripts/HandGrabRecord/Editor/HandGrabPoseLiveRecorderEditor.cs"
+"Library/PackageCache/com.meta.xr.sdk.interaction.ovr.samples@62.0.0/Runtime/Scripts/HandGrabRecord/Editor/HandGrabPoseLiveRecorderEditor.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

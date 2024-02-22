@@ -73,7 +73,7 @@ namespace Oculus.Interaction
         public Transform Transform => _targetTransform;
         public List<Pose> GrabPoints => _selectingPoints;
 
-        public ITransformer _activeTransformer = null;
+        private ITransformer _activeTransformer = null;
         private ITransformer OneGrabTransformer;
         private ITransformer TwoGrabTransformer;
 

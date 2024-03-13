@@ -3846,7 +3846,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   Attach: {fileID: 1395584130}
-  HoverMat: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
+  HoverMat: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 3}
   Freeze: 1
   wasInSocket: 0
   SelectEnter:

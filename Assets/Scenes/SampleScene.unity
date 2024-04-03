@@ -40677,6 +40677,7 @@ GameObject:
   - component: {fileID: 3130489038212826732}
   - component: {fileID: 2080206339440708041}
   - component: {fileID: 4267890641518853379}
+  - component: {fileID: 4267890641518853380}
   m_Layer: 0
   m_Name: roof with solar panles 01
   m_TagString: Untagged
@@ -47692,6 +47693,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4267890641518853380
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2322286880678108374}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8313631998565435334, guid: beaa4affea3877540a8af7843e98a589, type: 3}
 --- !u!4 &4268184275566177672
 Transform:
   m_ObjectHideFlags: 0

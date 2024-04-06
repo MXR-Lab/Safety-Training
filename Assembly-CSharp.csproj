@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\harnessAttach.cs" />
     <Compile Include="Assets\Scripts\hatAttach.cs" />
+    <Compile Include="Assets\meshCombiner.cs" />
     <Compile Include="Assets\Scripts\SocketInteractor.cs" />
   </ItemGroup>
   <ItemGroup>

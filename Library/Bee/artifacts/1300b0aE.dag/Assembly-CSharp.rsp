@@ -369,6 +369,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/xr.sdk.sharedassets.runtime.ref.dll"
 "Assets/harnessAttach.cs"
+"Assets/meshCombiner.cs"
 "Assets/Scripts/hatAttach.cs"
 "Assets/Scripts/SocketInteractor.cs"
 -langversion:9.0

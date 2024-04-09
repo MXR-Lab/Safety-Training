@@ -13,7 +13,7 @@ public class meshCombiner : MonoBehaviour
     {
         var combine = new CombineInstance[sourceMeshFilters.Count];
 
-        for(var i = 0; i < sourceMeshFilters.Count; i++)
+        for(int i = 0; i < sourceMeshFilters.Count; i++)
         {
             combine[i].mesh = sourceMeshFilters[i].sharedMesh;
             combine[i].transform = sourceMeshFilters[i].transform.localToWorldMatrix;

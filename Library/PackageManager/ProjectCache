@@ -48,12 +48,14 @@ m_ResolvedPackages:
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     verified: 
   dependencies:
   - name: com.unity.textmeshpro
@@ -123,12 +125,14 @@ m_ResolvedPackages:
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     verified: 
   dependencies:
   - name: com.meta.xr.sdk.core
@@ -202,11 +206,13 @@ m_ResolvedPackages:
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     compatible:
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     verified: 
   dependencies:
   - name: com.meta.xr.sdk.interaction.ovr
@@ -352,8 +358,10 @@ m_ResolvedPackages:
     - 2.1.0-preview.6
     - 2.1.0
     - 2.2.0
+    - 2.3.1
     compatible:
     - 2.2.0
+    - 2.3.1
     verified: 2.2.0
   dependencies: []
   resolvedDependencies: []
@@ -543,9 +551,11 @@ m_ResolvedPackages:
     - 3.0.25
     - 3.0.26
     - 3.0.27
+    - 3.0.28
     compatible:
     - 3.0.27
-    verified: 3.0.27
+    - 3.0.28
+    verified: 3.0.28
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -977,6 +987,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
+    - 3.2.0-pre.9
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -991,6 +1002,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
+    - 3.2.0-pre.9
     verified: 3.0.8
   dependencies:
   - name: com.unity.ugui
@@ -1314,9 +1326,11 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.9.0
     - 1.9.1
+    - 1.9.2
     compatible:
     - 1.9.1
-    verified: 1.9.1
+    - 1.9.2
+    verified: 1.9.2
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1446,6 +1460,7 @@ m_ResolvedPackages:
     - 3.2.3-pre.1
     - 3.2.3
     - 3.3.0
+    - 3.4.0
     - 4.0.0
     - 4.1.1
     - 4.1.2
@@ -1454,6 +1469,7 @@ m_ResolvedPackages:
     - 4.2.0
     compatible:
     - 3.3.0
+    - 3.4.0
     verified: 3.3.0
   dependencies:
   - name: com.unity.xr.management
@@ -3719,12 +3735,14 @@ m_ResolvedPackages:
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     verified: 
   dependencies:
   - name: com.unity.textmeshpro
@@ -3792,10 +3810,12 @@ m_ResolvedPackages:
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     compatible:
     - 59.0.0
     - 60.0.0
     - 62.0.0
+    - 63.0.0
     verified: 
   dependencies: []
   resolvedDependencies: []

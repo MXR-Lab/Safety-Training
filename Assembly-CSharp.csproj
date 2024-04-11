@@ -61,6 +61,8 @@
     <Compile Include="Assets\Scripts\harnessAttach.cs" />
     <Compile Include="Assets\Scripts\hatAttach.cs" />
     <Compile Include="Assets\Scripts\meshCombiner.cs" />
+    <Compile Include="Assets\Scripts\GClampAttach.cs" />
+    <Compile Include="Assets\randomizePosition.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

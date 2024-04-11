@@ -368,6 +368,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/xr.sdk.sharedassets.runtime.ref.dll"
+"Assets/randomizePosition.cs"
+"Assets/Scripts/GClampAttach.cs"
 "Assets/Scripts/harnessAttach.cs"
 "Assets/Scripts/hatAttach.cs"
 "Assets/Scripts/meshCombiner.cs"

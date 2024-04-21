@@ -12,8 +12,9 @@ public class randomizePosition : MonoBehaviour
     void Start() {
         while (index < objectToAdd)
         {
-            xPos = Random.Range(-5,5);
-            zPos = Random.Range(-5,5);
+            float x = 4999/1000;
+            float xPos = Random.Range(-x,x);
+            float zPos = Random.Range(-x,x);
             Instantiate(prefab, gameObject.transform.TransformPoint(new Vector3(xPos, 1/2, zPos)), gameObject.transform.rotation);
             index++;
         }

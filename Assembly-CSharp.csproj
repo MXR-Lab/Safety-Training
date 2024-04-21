@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\hatAttach.cs" />
     <Compile Include="Assets\randomizePosition.cs" />
     <Compile Include="Assets\Scripts\meshCombiner.cs" />
+    <Compile Include="Assets\dirtRemoval.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

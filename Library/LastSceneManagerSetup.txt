@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Samples/Meta XR Interaction SDK OVR Samples/60.0.0/Tools/HandGrabPoseTool.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

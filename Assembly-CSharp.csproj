@@ -63,7 +63,9 @@
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\FPSDisplay.cs" />
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\ObjectDragger.cs" />
     <Compile Include="Assets\Obi\Samples\RopeAndRod\SampleResources\Scripts\Wrappable.cs" />
+    <Compile Include="Assets\Scripts\GClampUpperAttach.cs" />
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\ObiParticleCounter.cs" />
+    <Compile Include="Assets\Scripts\clipAttach.cs" />
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\ColliderHighlighter.cs" />
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\CollisionEventHandler.cs" />
     <Compile Include="Assets\Obi\Samples\RopeAndRod\SampleResources\Scripts\GrapplingHook.cs" />
@@ -98,6 +100,7 @@
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\Blinker.cs" />
     <Compile Include="Assets\dirtRemoval.cs" />
     <Compile Include="Assets\Obi\Samples\RopeAndRod\SampleResources\Scripts\HosePump.cs" />
+    <Compile Include="Assets\Scripts\SceneSwitch.cs" />
     <Compile Include="Assets\Obi\Samples\RopeAndRod\SampleResources\Scripts\RopeTenser.cs" />
     <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\ExtrapolationCamera.cs" />
     <Compile Include="Assets\Obi\Samples\RopeAndRod\SampleResources\Scripts\SnakeController.cs" />

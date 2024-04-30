@@ -8,8 +8,10 @@ public class GClampAttach : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("Test");
         if (other.Equals(obj.GetComponent<Collider>()))
         {
+            Debug.Log("Test1");
             obj.transform.parent.position = transform.position;
             obj.transform.parent.rotation = transform.rotation;
             obj.GetComponent<Rigidbody>().useGravity = false;

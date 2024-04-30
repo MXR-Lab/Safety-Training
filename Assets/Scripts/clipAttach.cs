@@ -21,21 +21,21 @@ public class clipAttach : MonoBehaviour
         {
             obj1.transform.parent.position = attachPoint.transform.position;
             obj1.transform.parent.rotation = attachPoint.transform.rotation;
-            obj1.GetComponent<Rigidbody>().useGravity = false;
-            obj1.GetComponent<Rigidbody>().isKinematic = true;
+            obj1.transform.parent.GetComponent<Rigidbody>().useGravity = false;
+            obj1.transform.parent.GetComponent<Rigidbody>().isKinematic = true;
         }
     }
     private void OnTriggerExit(Collider other)
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {
-            obj.GetComponent<Rigidbody>().useGravity = true;
-            obj.GetComponent<Rigidbody>().isKinematic = false;
+            obj.transform.parent.GetComponent<Rigidbody>().useGravity = true;
+            obj.transform.parent.GetComponent<Rigidbody>().isKinematic = false;
         }
         if (other.Equals(obj1.GetComponent<Collider>()))
         {
-            obj1.GetComponent<Rigidbody>().useGravity = true;
-            obj1.GetComponent<Rigidbody>().isKinematic = false;
+            obj1.transform.parent.GetComponent<Rigidbody>().useGravity = true;
+            obj1.transform.parent.GetComponent<Rigidbody>().isKinematic = false;
         }
     }
 }

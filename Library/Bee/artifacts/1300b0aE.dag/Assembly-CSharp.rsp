@@ -371,7 +371,6 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/xr.sdk.sharedassets.runtime.ref.dll"
-"Assets/dirtRemoval.cs"
 "Assets/Obi/Samples/Common/SampleResources/Scripts/ActorCOMTransform.cs"
 "Assets/Obi/Samples/Common/SampleResources/Scripts/ActorSpawner.cs"
 "Assets/Obi/Samples/Common/SampleResources/Scripts/AddRandomVelocity.cs"
@@ -412,13 +411,14 @@
 "Assets/Obi/Samples/RopeAndRod/SampleResources/Scripts/Wrappable.cs"
 "Assets/Obi/Samples/RopeAndRod/SampleResources/Scripts/WrapRopeGameController.cs"
 "Assets/Obi/Samples/RopeAndRod/SampleResources/Scripts/WrapRopePlayerController.cs"
-"Assets/randomizePosition.cs"
 "Assets/Scripts/clipAttach.cs"
+"Assets/Scripts/dirtRemoval.cs"
 "Assets/Scripts/GClampAttach.cs"
 "Assets/Scripts/GClampUpperAttach.cs"
 "Assets/Scripts/harnessAttach.cs"
 "Assets/Scripts/hatAttach.cs"
 "Assets/Scripts/meshCombiner.cs"
+"Assets/Scripts/randomizePosition.cs"
 "Assets/Scripts/SceneSwitch.cs"
 -langversion:9.0
 

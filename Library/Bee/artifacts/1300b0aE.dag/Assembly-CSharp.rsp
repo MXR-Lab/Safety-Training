@@ -416,6 +416,7 @@
 "Assets/Scripts/harnessAttach.cs"
 "Assets/Scripts/hatAttach.cs"
 "Assets/Scripts/meshCombiner.cs"
+"Assets/Scripts/SceneSwitch.cs"
 -langversion:9.0
 
 /deterministic

@@ -9,19 +9,19 @@ public class harnessAttach : MonoBehaviour
     [SerializeField] GameObject belt1;
     [SerializeField] GameObject belt2;
 
-    private void OnTriggerEnter(Collision other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {
+            obj.GetComponent<Rigidbody>().useGravity = false;
+            obj.GetComponent<Rigidbody>().isKinematic = true;
             group.transform.position = transform.position;
             group.transform.rotation = transform.rotation;
             belt1.SetActive(true);
             belt2.SetActive(true);
-            obj.GetComponent<Rigidbody>().useGravity = false;
-            obj.GetComponent<Rigidbody>().isKinematic = true;
         }
     }
-    private void OnTriggerExit(Collision other)
+    private void OnTriggerExit(Collider other)
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {

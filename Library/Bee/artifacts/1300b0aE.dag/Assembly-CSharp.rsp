@@ -412,6 +412,7 @@
 "Assets/Obi/Samples/RopeAndRod/SampleResources/Scripts/WrapRopeGameController.cs"
 "Assets/Obi/Samples/RopeAndRod/SampleResources/Scripts/WrapRopePlayerController.cs"
 "Assets/Scripts/clipAttach.cs"
+"Assets/Scripts/clipAttachElevated.cs"
 "Assets/Scripts/dirtRemoval.cs"
 "Assets/Scripts/GClampAttach.cs"
 "Assets/Scripts/GClampUpperAttach.cs"

@@ -11,7 +11,7 @@ public class hatAttach : MonoBehaviour
         if (other.Equals(obj.GetComponent<Collider>()))
         {
             obj.transform.position = transform.position;
-            obj.transform.rotation = transform.rotation;
+            obj.transform.parent.rotation = transform.rotation;
             obj.GetComponent<Rigidbody>().useGravity = false;
             obj.GetComponent<Rigidbody>().isKinematic = true;
         }

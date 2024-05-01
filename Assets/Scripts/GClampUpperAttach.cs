@@ -13,8 +13,8 @@ public class GClampUpperAttach : MonoBehaviour
         {
             obj.transform.parent.position = transform.position;
             obj.transform.parent.rotation = transform.rotation;
-            obj.GetComponent<Rigidbody>().useGravity = false;
-            obj.GetComponent<Rigidbody>().isKinematic = true;
+            obj.transform.parent.GetComponent<Rigidbody>().useGravity = false;
+            obj.transform.parent.GetComponent<Rigidbody>().isKinematic = true;
             strap.SetActive(true);
         }
     }
@@ -22,8 +22,8 @@ public class GClampUpperAttach : MonoBehaviour
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {
-            obj.GetComponent<Rigidbody>().useGravity = true;
-            obj.GetComponent<Rigidbody>().isKinematic = false;
+            obj.transform.parent.GetComponent<Rigidbody>().useGravity = true;
+            obj.transform.parent.GetComponent<Rigidbody>().isKinematic = false;
             strap.SetActive(false);
         }
     }

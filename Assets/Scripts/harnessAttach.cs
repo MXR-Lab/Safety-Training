@@ -9,7 +9,7 @@ public class harnessAttach : MonoBehaviour
     [SerializeField] GameObject belt1;
     [SerializeField] GameObject belt2;
 
-    private void OnCollisionEnter(Collision other)
+    private void OnTriggerEnter(Collision other)
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {
@@ -21,7 +21,7 @@ public class harnessAttach : MonoBehaviour
             obj.GetComponent<Rigidbody>().isKinematic = true;
         }
     }
-    private void OnCollisionExit(Collision other)
+    private void OnTriggerExit(Collision other)
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {

@@ -431,7 +431,6 @@
 "Assets/Scripts/dirtRemoval.cs"
 "Assets/Scripts/GClampAttach.cs"
 "Assets/Scripts/GClampUpperAttach.cs"
-"Assets/Scripts/HandDestructor.cs"
 "Assets/Scripts/harnessAttach.cs"
 "Assets/Scripts/hatAttach.cs"
 "Assets/Scripts/randomizePosition.cs"

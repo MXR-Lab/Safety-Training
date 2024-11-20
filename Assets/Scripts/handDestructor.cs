@@ -10,7 +10,7 @@ public class handDestructor : MonoBehaviour
     {
         if (other.Equals(obj.GetComponent<Collider>()))
         {
-            Destroy(other);
+            Destroy(other.gameObject);
             Debug.Log("Hi :)");
         }
     }

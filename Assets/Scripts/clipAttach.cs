@@ -10,13 +10,13 @@ public class clipAttach : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.Equals(obj.GetComponent<Collider>()))
+        /*if (other.Equals(obj.GetComponent<Collider>()))
         {
             obj.transform.parent.position = attachPoint.transform.position;
             obj.transform.parent.rotation = attachPoint.transform.rotation;
             obj.GetComponent<Rigidbody>().useGravity = false;
             obj.GetComponent<Rigidbody>().isKinematic = true;
-        }
+        }*/
         if (other.Equals(obj1.GetComponent<Collider>()))
         {
             obj1.transform.parent.position = attachPoint.transform.position;

@@ -24,13 +24,13 @@ public class clipAttachElevated : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.Equals(obj.GetComponent<Collider>()))
+        /*if (other.Equals(obj.GetComponent<Collider>()))
         {
             obj.transform.parent.position = attachPoint.transform.position;
             obj.transform.parent.rotation = attachPoint.transform.rotation;
             obj.GetComponent<Rigidbody>().useGravity = false;
             obj.GetComponent<Rigidbody>().isKinematic = true;
-        }
+        }*/
         if (other.Equals(obj1.GetComponent<Collider>()))
         {
             obj1.transform.parent.position = attachPoint.transform.position;
@@ -41,11 +41,11 @@ public class clipAttachElevated : MonoBehaviour
     }
     private void OnTriggerExit(Collider other)
     {
-        if (other.Equals(obj.GetComponent<Collider>()))
+        /*if (other.Equals(obj.GetComponent<Collider>()))
         {
             obj.transform.parent.GetComponent<Rigidbody>().useGravity = true;
             obj.transform.parent.GetComponent<Rigidbody>().isKinematic = false;
-        }
+        }*/
         if (other.Equals(obj1.GetComponent<Collider>()))
         {
             obj1.transform.parent.GetComponent<Rigidbody>().useGravity = true;

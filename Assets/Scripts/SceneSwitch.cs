@@ -13,4 +13,9 @@ public class SceneSwitch : MonoBehaviour
        // sceneManager.UnloadSceneAsync(sceneManager.GetActiveScene());
         SceneManager.LoadScene("SampleSceneGround", LoadSceneMode.Single);
     }
+    public void LoadGroundAfter()
+    {
+        // sceneManager.UnloadSceneAsync(sceneManager.GetActiveScene());
+        SceneManager.LoadScene("SampleSceneGroundAfter", LoadSceneMode.Single);
+    }
 }
